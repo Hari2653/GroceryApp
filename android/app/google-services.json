@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1052062865686",
+    "project_id": "reongroceryapp",
+    "storage_bucket": "reongroceryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052062865686:android:2eb8af2425639e6ba91837",
+        "android_client_info": {
+          "package_name": "com.reontechnology.groceryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052062865686-bvknuc1g3tro3ionin9n1eq2sc6k6fsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reontechnology.groceryapp",
+            "certificate_hash": "6956fd0acb8147b92555d0963d4d2396313d09ae"
+          }
+        },
+        {
+          "client_id": "1052062865686-lvjipj0dlmt99kpst2dva2jmc2r8nkqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDor78J8-tIG_VdLHI0fiTOybyHPn49fn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052062865686-lvjipj0dlmt99kpst2dva2jmc2r8nkqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
